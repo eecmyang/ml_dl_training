@@ -1,4 +1,4 @@
-# ml_dl_training
+# Machine, Deep Learing Training
 
 Progress recording for machine and deep learning studying and practicing.
 
