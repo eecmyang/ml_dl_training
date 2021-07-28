@@ -4,7 +4,9 @@ Progress recording for machine and deep learning studying and practicing.
 
 As of July 2021, most of the practices will be using Jupyter Notebook.
 
-What has been learned/knew so far:
+What has been learned/knew so far. 
+
+Overview.
 
 Pre:
 Installation and building environment of Anaconda and Tensorflow.
